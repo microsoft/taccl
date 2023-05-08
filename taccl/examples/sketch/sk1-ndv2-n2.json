@@ -1,0 +1,14 @@
+{
+    "nnodes": 2,
+    "intranode_sketch": {
+        "strategy": "none"
+    },
+    "internode_sketch": {
+        "strategy": "relay",
+        "internode_conn": {"0" : [1]}
+    },
+    "symmetry_offsets": [[8,16]],
+    "hyperparameters": {
+        "input_chunkup": 1
+    }
+}

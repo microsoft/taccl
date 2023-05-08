@@ -1,0 +1,10 @@
+{
+    "nnodes": 1,
+    "intranode_sketch": {
+        "strategy": "none"
+    },
+    "symmetry_offsets": [],
+    "hyperparameters": {
+        "input_chunkup": 6
+    }
+}

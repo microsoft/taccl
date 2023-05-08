@@ -1,0 +1,11 @@
+{
+    "name": "NDv2_1MB",
+    "gpus_per_node": 8,
+    "nics_per_node": 1,
+    "alpha": 0.3,
+    "node_betas_list": [23, 46],
+    "node_invbws_list":  [23, 46],
+    "remote_invbw": 107,
+    "remote_alpha": 2.6,
+    "remote_beta": 105
+}
